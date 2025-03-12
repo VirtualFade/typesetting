@@ -135,7 +135,6 @@ nav {
 }
 
 nav ul li {
-  color: #a66;
   margin: 0.3rem 0;
 }
 
@@ -149,11 +148,10 @@ nav ul {
 }
 
 nav ul li a {
-  color: #a66;
+  color: #a66 !important;
   font-size: 1.6rem;
   text-decoration: none;
   padding: 1rem 2rem;
-  display: block;
   border: 2px solid #a66;
   border-radius: 5px;
   height: 60px;
